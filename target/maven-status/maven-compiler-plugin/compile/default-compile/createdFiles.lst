@@ -1,0 +1,8 @@
+com\eazybytes\EazyBankBackendApplication.class
+com\eazybytes\config\ProjectSecurityConfig.class
+com\eazybytes\controller\LoansController.class
+com\eazybytes\controller\BalanceController.class
+com\eazybytes\controller\ContactController.class
+com\eazybytes\controller\CardsController.class
+com\eazybytes\controller\NoticesController.class
+com\eazybytes\controller\AccountController.class
