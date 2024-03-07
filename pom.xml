@@ -52,7 +52,7 @@
 
 			</plugin>
 		</plugins>
-		<finalName>docker-demo</finalName>
+<!--		<finalName>docker-demo</finalName>-->
 	</build>
 
 </project>
